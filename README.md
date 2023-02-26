@@ -5,7 +5,7 @@
 
 I am Siddhi Gandhi
 Full Stack Developer
- I have  skills that include C,C++, HTML,CSS,Python,Bootstrap,JavaScript. Trying to improve my coding skills
+ I have  skills that include C,C++, HTML,CSS,Bootstrap,JavaScript. Trying to improve my coding skills
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=siddhigandhi874&column=7"/>
