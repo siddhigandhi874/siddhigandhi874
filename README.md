@@ -1,7 +1,7 @@
 ### Hi Developers 👋
-[![Linkedin Badge]"C:\Users\Siddh\OneDrive\Desktop\image.html\linkedin.jpeg"](https://www.linkedin.com/in/siddhi-gandhi-408078266?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BBkj4UNNlS2m1amOba9rA%2Bg%3D%3D/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Siddhi-green)](https://www.Siddhi)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Siddhi-yellow)](https://stackoverflow.com/users/21198294/siddhi)
+[![Linkedin Badge](https://img.shields.io/badge/-Siddhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddhi-gandhi-408078266/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BBkj4UNNlS2m1amOba9rA%2Bg%3D%3D/)](https://www.linkedin.com/in/siddhi-gandhi-408078266/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BBkj4UNNlS2m1amOba9rA%2Bg%3D%3D)
+[![Website Badge](https://img.shields.io/badge/WebSite-Siddhi-green)](https://www.siddhi)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
 Full Stack Solution Architect
