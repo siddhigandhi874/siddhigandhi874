@@ -4,7 +4,6 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Siddhi-yellow)](https://stackoverflow.com/users/21198294/siddhi)
 
 I am Siddhi Gandhi
-Full Stack Developer
  I have  skills that include C,C++, HTML,CSS,Bootstrap,JavaScript. Trying to improve my coding skills
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
